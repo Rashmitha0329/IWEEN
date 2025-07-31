@@ -13,7 +13,8 @@
         <class name="com.iween.testBase.docker"/>
             <!--class name="com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays"/-->
             <class name="com.iween.testCases.TC_01_AjayModi_Login"/>
-            
+            <class name="com.iween.testCases.TC_02_AjayModi_Login1"/>
+            <class name="com.iween.testCases.TC_03_AjayModi_Login3"/>
       <!--class name="com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays"/-->
         </classes>
     </test>

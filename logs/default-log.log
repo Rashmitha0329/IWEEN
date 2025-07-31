@@ -8599,3 +8599,15 @@ Session ID: b21f5208f93597888fae4113ce2c8ccb
 2025-07-31 12:53:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
 2025-07-31 12:54:03 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser launched and navigated to URL: https://air.ajaymodi.pro/login
 2025-07-31 12:54:28 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Closing browser.
+2025-07-31 14:12:32 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
+2025-07-31 14:12:32 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
+2025-07-31 14:12:34 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser launched and navigated to URL: https://air.ajaymodi.pro/login
+2025-07-31 14:12:38 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Closing browser.
+2025-07-31 14:12:38 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
+2025-07-31 14:12:38 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
+2025-07-31 14:12:39 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser launched and navigated to URL: https://air.ajaymodi.pro/login
+2025-07-31 14:12:43 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Closing browser.
+2025-07-31 14:12:43 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
+2025-07-31 14:12:43 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
+2025-07-31 14:12:45 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser launched and navigated to URL: https://air.ajaymodi.pro/login
+2025-07-31 14:12:48 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Closing browser.

@@ -1,23 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-31T12:52:37 IST" name="TripGain Test Suite" finished-at="2025-07-31T12:54:33 IST" duration-ms="115850">
+  <suite started-at="2025-07-31T14:11:30 IST" name="TripGain Test Suite" finished-at="2025-07-31T14:12:54 IST" duration-ms="83245">
     <groups>
     </groups>
-    <test started-at="2025-07-31T12:52:37 IST" name="Hotel Search Tests" finished-at="2025-07-31T12:54:33 IST" duration-ms="115850">
+    <test started-at="2025-07-31T14:11:30 IST" name="Hotel Search Tests" finished-at="2025-07-31T14:12:54 IST" duration-ms="83245">
       <class name="com.iween.testBase.docker">
-        <test-method is-config="true" signature="startDockerGrid()[pri:0, instance:com.iween.testBase.docker@54e680fe]" started-at="2025-07-31T12:52:37 IST" name="startDockerGrid" finished-at="2025-07-31T12:53:37 IST" duration-ms="60056" status="PASS">
+        <test-method is-config="true" signature="startDockerGrid()[pri:0, instance:com.iween.testBase.docker@3bf4644c]" started-at="2025-07-31T14:11:30 IST" name="startDockerGrid" finished-at="2025-07-31T14:12:30 IST" duration-ms="60046" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startDockerGrid -->
-        <test-method is-config="true" signature="stopDockerGrid()[pri:0, instance:com.iween.testBase.docker@54e680fe]" started-at="2025-07-31T12:54:28 IST" name="stopDockerGrid" finished-at="2025-07-31T12:54:33 IST" duration-ms="5019" status="PASS">
+        <test-method is-config="true" signature="stopDockerGrid()[pri:0, instance:com.iween.testBase.docker@3bf4644c]" started-at="2025-07-31T14:12:49 IST" name="stopDockerGrid" finished-at="2025-07-31T14:12:54 IST" duration-ms="5019" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDockerGrid -->
       </class> <!-- com.iween.testBase.docker -->
+      <class name="com.iween.testCases.TC_03_AjayModi_Login3">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.iween.testCases.TC_03_AjayModi_Login3@b386a17]" started-at="2025-07-31T14:12:43 IST" name="setup" finished-at="2025-07-31T14:12:45 IST" duration-ms="1172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void com.iween.testCases.TC_03_AjayModi_Login3.bookingProcess() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookingProcess()[pri:0, instance:com.iween.testCases.TC_03_AjayModi_Login3@b386a17]" started-at="2025-07-31T14:12:45 IST" name="bookingProcess" finished-at="2025-07-31T14:12:48 IST" duration-ms="3502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingProcess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iween.testCases.TC_03_AjayModi_Login3@b386a17]" started-at="2025-07-31T14:12:48 IST" name="tearDown" finished-at="2025-07-31T14:12:49 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iween.testCases.TC_03_AjayModi_Login3 -->
+      <class name="com.iween.testCases.TC_02_AjayModi_Login1">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.iween.testCases.TC_02_AjayModi_Login1@3db5195]" started-at="2025-07-31T14:12:38 IST" name="setup" finished-at="2025-07-31T14:12:39 IST" duration-ms="1174" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void com.iween.testCases.TC_02_AjayModi_Login1.bookingProcess() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookingProcess()[pri:0, instance:com.iween.testCases.TC_02_AjayModi_Login1@3db5195]" started-at="2025-07-31T14:12:39 IST" name="bookingProcess" finished-at="2025-07-31T14:12:43 IST" duration-ms="3537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookingProcess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iween.testCases.TC_02_AjayModi_Login1@3db5195]" started-at="2025-07-31T14:12:43 IST" name="tearDown" finished-at="2025-07-31T14:12:43 IST" duration-ms="494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.iween.testCases.TC_02_AjayModi_Login1 -->
       <class name="com.iween.testCases.TC_01_AjayModi_Login">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.iween.testCases.TC_01_AjayModi_Login@11a7840f]" started-at="2025-07-31T12:53:38 IST" name="setup" finished-at="2025-07-31T12:54:03 IST" duration-ms="25018" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.iween.testCases.TC_01_AjayModi_Login@3c5044fa]" started-at="2025-07-31T14:12:30 IST" name="setup" finished-at="2025-07-31T14:12:34 IST" duration-ms="3749" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -38,11 +100,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="bookingProcess()[pri:0, instance:com.iween.testCases.TC_01_AjayModi_Login@11a7840f]" started-at="2025-07-31T12:54:03 IST" name="bookingProcess" finished-at="2025-07-31T12:54:28 IST" duration-ms="25161" status="PASS">
+        <test-method signature="bookingProcess()[pri:0, instance:com.iween.testCases.TC_01_AjayModi_Login@3c5044fa]" started-at="2025-07-31T14:12:34 IST" name="bookingProcess" finished-at="2025-07-31T14:12:38 IST" duration-ms="3596" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookingProcess -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iween.testCases.TC_01_AjayModi_Login@11a7840f]" started-at="2025-07-31T12:54:28 IST" name="tearDown" finished-at="2025-07-31T12:54:28 IST" duration-ms="485" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.iween.testCases.TC_01_AjayModi_Login@3c5044fa]" started-at="2025-07-31T14:12:38 IST" name="tearDown" finished-at="2025-07-31T14:12:38 IST" duration-ms="397" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
