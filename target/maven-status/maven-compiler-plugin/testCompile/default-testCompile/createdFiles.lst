@@ -10,7 +10,6 @@ com\iween\utilities\Iween_FutureDates.class
 com\iween\utilities\DataProviders.class
 com\iween\utilities\ExcelUtilities.class
 com\iween\utilities\LogSetup.class
-com\iween\pageObjects\UserLoginPage.class
 com\iween\utilities\DriverManager.class
 com\iween\utilities\Retry.class
 com\iween\testBase\docker.class

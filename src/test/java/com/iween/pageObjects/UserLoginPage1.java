@@ -7,9 +7,9 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.iween.testBase.baseClass;
 
-public class UserLoginPage extends BasePage
+public class UserLoginPage1 extends BasePage
 {
-	public UserLoginPage(WebDriver driver) 
+	public UserLoginPage1(WebDriver driver) 
 	{
 		super(driver);
 

@@ -8,6 +8,20 @@
   </listeners>
   <test thread-count="5" name="Hotel Search Tests(failed)">
     <classes>
+      <class name="com.iween.testCases.TC_03_AjayModi_Login3">
+        <methods>
+          <include name="setup"/>
+          <include name="bookingProcess"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.iween.testCases.TC_03_AjayModi_Login3 -->
+      <class name="com.iween.testCases.TC_02_AjayModi_Login1">
+        <methods>
+          <include name="bookingProcess"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.iween.testCases.TC_02_AjayModi_Login1 -->
       <class name="com.iween.testCases.TC_01_AjayModi_Login">
         <methods>
           <include name="bookingProcess"/>

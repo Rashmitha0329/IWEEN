@@ -508,6 +508,7 @@
 //        }
 //    }
 //}
+/*
 package com.iween.testBase;
 
 import java.io.FileReader;
@@ -571,21 +572,32 @@ public class baseClass {
         logger.info("Operating System: " + os);
         logger.info("Browser: " + browser);
 
+        logger.info("env");
         String env = p.getProperty("execution_env").toLowerCase();
 
+        logger.info("remote");
         if (env.equals("remote")) {
             // REMOTE execution via Selenium Grid
-
+        	 logger.info("browser");
             switch (browser.toLowerCase()) {
                 case "chrome":
+                	 logger.info("chromeOptions");
                     ChromeOptions chromeOptions = new ChromeOptions();
+                    logger.info("--no-sandbox");
                     chromeOptions.addArguments("--no-sandbox");
+                    logger.info("--disable-dev-shm-usage");
                     chromeOptions.addArguments("--disable-dev-shm-usage");
+                    logger.info("--disable-gpu");
                     chromeOptions.addArguments("--disable-gpu");
+                    logger.info("--disable-extensions");
                     chromeOptions.addArguments("--disable-extensions");
+                    logger.info("--remote-debugging-port=9222");
                     chromeOptions.addArguments("--remote-debugging-port=9222");
+                    logger.info("--headless");
                     chromeOptions.addArguments("--headless");  // Use traditional headless here
+                    logger.info("useAutomationExtension");
                     chromeOptions.setExperimentalOption("useAutomationExtension", false);
+                    logger.info("excludeSwitches");
                     chromeOptions.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
 
                     // Set platform based on OS param
@@ -657,11 +669,13 @@ public class baseClass {
 
         } else if (env.equals("local")) {
             // Local execution
-
+        	 logger.info("local browser");
             switch (browser.toLowerCase()) {
                 case "chrome":
                     WebDriverManager.chromedriver().setup();
+                    logger.info("chrome browser");
                     ChromeOptions chromeOptions = new ChromeOptions();
+                    logger.info("chrome browser arg");
                     chromeOptions.addArguments("--no-sandbox");
                     chromeOptions.addArguments("--disable-dev-shm-usage");
                     chromeOptions.addArguments("--disable-gpu");
@@ -670,7 +684,9 @@ public class baseClass {
                     chromeOptions.addArguments("--headless");  // Headless mode for Chrome
                     chromeOptions.setExperimentalOption("useAutomationExtension", false);
                     chromeOptions.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
+                    logger.info("local chrome browser driver");
                     driver = new ChromeDriver(chromeOptions);
+                    logger.info("chrome upadted");
                     break;
 
                 case "firefox":
@@ -691,13 +707,35 @@ public class baseClass {
                 default:
                     throw new IllegalArgumentException("Unsupported browser: " + browser);
             }
+//        } else {
+//            throw new IllegalArgumentException("Invalid execution_env value in config.properties");
+            logger.info("machine ");
+        } else if (env.equals("machine")) {
+            // ✅ Run only in headed mode
+            switch (browser.toLowerCase()) {
+                case "chrome":
+                    WebDriverManager.chromedriver().setup();
+                    driver = new ChromeDriver();  // ✅ No headless
+                    break;
+                case "firefox":
+                    WebDriverManager.firefoxdriver().setup();
+                    driver = new FirefoxDriver();  // ✅ No headless
+                    break;
+                case "edge":
+                    WebDriverManager.edgedriver().setup();
+                    driver = new EdgeDriver();  // ✅ No headless
+                    break;
+                default:
+                    throw new IllegalArgumentException("Unsupported browser: " + browser);
+            }
         } else {
             throw new IllegalArgumentException("Invalid execution_env value in config.properties");
         }
-
+        logger.info("driver start");
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
         driver.manage().window().maximize();
+        logger.info("url");
         driver.get(p.getProperty("applicationUrl"));
 
         logger.info("Browser launched and navigated to URL: " + p.getProperty("applicationUrl"));
@@ -720,4 +758,167 @@ public class baseClass {
         }
     }
 }
+*/
+package com.iween.testBase;
+
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.iween.utilities.ExtentManager;
+import com.iween.utilities.Iween_FutureDates;
+import com.iween.utilities.ScreenshotUtil;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.*;
+
+import java.io.FileReader;
+import java.lang.reflect.Method;
+import java.net.URL;
+import java.time.Duration;
+import java.util.Properties;
+
+public class baseClass {
+
+    public static WebDriver driver;
+    public static Logger logger;
+    public static Properties p;
+    public static ExtentTest test;
+    public ExtentReports extent;
+    public ScreenshotUtil screenShots;
+    public Iween_FutureDates futureDates;
+
+    @BeforeMethod
+    @Parameters({"os", "browser"})
+    public void setup(String os, String browser, Method method) throws Exception {
+        logger = LogManager.getLogger(this.getClass());
+
+        p = new Properties();
+        FileReader file = new FileReader("./src/test/resources/config.properties");
+        p.load(file);
+
+        String env = p.getProperty("execution_env").toLowerCase();
+        logger.info("Running on environment: " + env);
+        logger.info("Operating System: " + os + ", Browser: " + browser);
+
+        try {
+            switch (env) {
+                case "remote":
+                    setupRemoteDriver(os, browser);
+                    break;
+                case "local":
+                    setupLocalDriver(browser);
+                    break;
+                case "machine":
+                    setupMachineDriver(browser);
+                    break;
+                default:
+                    throw new IllegalArgumentException("Invalid execution_env in config.properties");
+            }
+        } catch (Exception e) {
+            logger.error("Driver initialization failed: " + e.getMessage(), e);
+            throw e;
+        }
+
+        driver.manage().deleteAllCookies();
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+        driver.manage().window().maximize();
+        driver.get(p.getProperty("applicationUrl"));
+
+        logger.info("URL launched: " + p.getProperty("applicationUrl"));
+
+        // Optional setup
+        extent = ExtentManager.getExtentReports();
+        ExtentManager.setTest(test);
+        screenShots = new ScreenshotUtil();
+        futureDates = new Iween_FutureDates();
+    }
+
+    private void setupRemoteDriver(String os, String browser) throws Exception {
+        switch (browser.toLowerCase()) {
+            case "chrome":
+                ChromeOptions chromeOptions = new ChromeOptions();
+                chromeOptions.addArguments("--headless", "--disable-gpu");
+                chromeOptions.setPlatformName(os.toLowerCase());
+                driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), chromeOptions);
+                break;
+            case "firefox":
+                FirefoxOptions firefoxOptions = new FirefoxOptions();
+                firefoxOptions.addArguments("-headless");
+                firefoxOptions.setPlatformName(os.toLowerCase());
+                driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), firefoxOptions);
+                break;
+            case "edge":
+                EdgeOptions edgeOptions = new EdgeOptions();
+                edgeOptions.addArguments("headless");
+                edgeOptions.setPlatformName(os.toLowerCase());
+                driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), edgeOptions);
+                break;
+            default:
+                throw new IllegalArgumentException("Unsupported remote browser: " + browser);
+        }
+    }
+
+    private void setupLocalDriver(String browser) {
+        switch (browser.toLowerCase()) {
+            case "chrome":
+                WebDriverManager.chromedriver().setup();
+                ChromeOptions chromeOptions = new ChromeOptions();
+                chromeOptions.addArguments("--headless", "--disable-gpu");
+                driver = new ChromeDriver(chromeOptions);
+                break;
+            case "firefox":
+                WebDriverManager.firefoxdriver().setup();
+                FirefoxOptions firefoxOptions = new FirefoxOptions();
+                firefoxOptions.addArguments("-headless");
+                driver = new FirefoxDriver(firefoxOptions);
+                break;
+            case "edge":
+                WebDriverManager.edgedriver().setup();
+                EdgeOptions edgeOptions = new EdgeOptions();
+                edgeOptions.addArguments("headless");
+                driver = new EdgeDriver(edgeOptions);
+                break;
+            default:
+                throw new IllegalArgumentException("Unsupported local browser: " + browser);
+        }
+    }
+
+    private void setupMachineDriver(String browser) {
+        switch (browser.toLowerCase()) {
+            case "chrome":
+                WebDriverManager.chromedriver().setup();
+                driver = new ChromeDriver();
+                break;
+            case "firefox":
+                WebDriverManager.firefoxdriver().setup();
+                driver = new FirefoxDriver();
+                break;
+            case "edge":
+                WebDriverManager.edgedriver().setup();
+                driver = new EdgeDriver();
+                break;
+            default:
+                throw new IllegalArgumentException("Unsupported machine browser: " + browser);
+        }
+    }
+
+    @AfterMethod
+    public void tearDown() {
+        if (driver != null) {
+            logger.info("Closing browser.");
+            driver.quit();
+        }
+    }
+}
+
+
 

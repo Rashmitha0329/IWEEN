@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import com.iween.pageObjects.loginPage;
+import com.iween.pageObjects.loginPage1;
 import com.iween.testBase.baseClass;
 import com.iween.utilities.DataProviders;
 import com.iween.utilities.ExtentManager;
@@ -49,7 +49,7 @@ public class TCH_01_VerifySearchFunctionalityForHotalForTwoDays extends baseClas
 		 
 		
         
-        loginPage loginPage = new loginPage(driver);
+        loginPage1 loginPage = new loginPage1(driver);
 
         logger.info("Entering Username");
         loginPage.enterUserName(p.getProperty("username"));
