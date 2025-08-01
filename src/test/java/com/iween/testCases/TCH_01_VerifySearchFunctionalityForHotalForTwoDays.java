@@ -20,7 +20,7 @@ import com.iween.utilities.Retry;
 
 
 public class TCH_01_VerifySearchFunctionalityForHotalForTwoDays extends baseClass {
-	@Test(dataProvider = "excelData", dataProviderClass = DataProviders.class, retryAnalyzer = Retry.class)
+	@Test(dataProvider = "excelData", dataProviderClass = DataProviders.class)
 
 	    public void myTest(Map<String, String> excelTestData) throws Exception {
 	        System.out.println("Running test with: " + excelTestData);
@@ -59,29 +59,48 @@ public class TCH_01_VerifySearchFunctionalityForHotalForTwoDays extends baseClas
 
         logger.info("Clicking Login Button");
         loginPage.clickButton();
+        logger.info("clicked login button");
 
         loginPage.hotelClick();
+        
         Thread.sleep(3000);
-    
-       // // Now directly use log and test without re-declaring
-//        loginPage.validateHomePageIsDisplayed(log, test);
-//        
-//        loginPage.enterCityOrHotelName(city);
-//        
-//        loginPage.selectDate(date2.day, fromMonthYear);
-//    
-//        loginPage.selectReturnDate(date5.day,returnMonthYear);
-//        loginPage.clickOnSearch();
+        logger.info("clicked on hotel dropdown");
 
-//        loginPage.addRoom(roomcount,adultcount,childcount,childAge);
-//        long startTime = System.currentTimeMillis();
+       // // Now directly use log and test without re-declaring
+        loginPage.validateHomePageIsDisplayed(test);
+        
+        logger.info("validateHomePageIsDisplayed");
+
+        loginPage.enterCityOrHotelName(city);
+        logger.info("enterCityOrHotelName");
+
+        
+        loginPage.selectDate(date2.day, fromMonthYear);
+        logger.info("selectDate");
+
+        loginPage.selectReturnDate(date5.day,returnMonthYear);
+        logger.info("selectReturnDate");
+
 //        loginPage.clickOnSearch();
+//        logger.info("clickOnSearch");
+
+        loginPage.addRoom(roomcount,adultcount,childcount,childAge);
+        logger.info("addRoom");
+
+       // long startTime = System.currentTimeMillis();
+
+        loginPage.clickOnSearch();
+        logger.info("clickOnSearch");
+
 //        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(60));
 //		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h6[@title]")));
 //        long endTime = System.currentTimeMillis();
 //		long loadTimeInSeconds = (endTime - startTime) / 1000;
 //		test.log(Status.INFO, "Hotel search results loaded in " + loadTimeInSeconds + " seconds");
-//		//loginPage.validateResultScreen(log, test);
+//
+//		loginPage.validateResultScreen(test);
+//        logger.info("validateResultScreen");
+
         
         logger.info("******** Finished TestCase1: testLogin ********");
         

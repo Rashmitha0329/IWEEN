@@ -144,7 +144,7 @@ public class loginPage1 extends BasePage {
 
     ///IMP///
   //Method to check whether Home Page is displayed
-    public void validateHomePageIsDisplayed(Log log, ExtentTest test) {
+    public void validateHomePageIsDisplayed(ExtentTest test) {
         try {
             Thread.sleep(3000);
             WebDriverWait wait = new WebDriverWait(driver, Duration.ofMinutes(1));
@@ -244,97 +244,208 @@ public class loginPage1 extends BasePage {
   		}
   	}
   	
-  //Method to add room, adt and child
-  	public void addRoom(int roomcount, int adultCount , int childCount, int childAge) throws InterruptedException {
-  		Thread.sleep(2000);
-  		try {
-  			System.out.println("Expanding room selection...");
-  			driver.findElement(By.xpath("//*[@data-testid='ExpandMoreIcon']")).click();
-  		} catch (Exception e) {
-  			System.out.println("Failed to click expand icon: " + e.getMessage());
-  		}
-  		JavascriptExecutor js = (JavascriptExecutor) driver;
+//  //Method to add room, adt and child
+//  	public void addRoom(int roomcount, int adultCount , int childCount, int childAge) throws InterruptedException {
+//  		Thread.sleep(10000);
+//  		
+//  		try {
+//  			System.out.println("Expanding room selection...");
+//  			driver.findElement(By.xpath("//*[@data-testid='ExpandMoreIcon']")).click();
+//  			
+//  		} catch (Exception e) {
+//  			System.out.println("Failed to click expand icon: " + e.getMessage());
+//  		}
+//  		JavascriptExecutor js = (JavascriptExecutor) driver;
+//
+//  		for(int i = 0; i < roomcount - 1; i++) {
+//  			try {
+//  				System.out.println("Adding room: " + (i + 2));
+//  				driver.findElement(By.xpath("//button[text()='Add Room']")).click();
+//  			} catch (Exception e) {
+//  				System.out.println("Failed to click 'Add Room' button at index " + i + ": " + e.getMessage());
+//  			}
+//  		}
+//
+//  		Thread.sleep(3000);
+//
+//  		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+//  		try {
+//  			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h6[contains(text(),'Room')]")));
+//  		} catch (Exception e) {
+//  			System.out.println("Room elements not visible within timeout: " + e.getMessage());
+//  		}
+//
+//  		List<WebElement> listOfRooms = driver.findElements(By.xpath("//h6[contains(text(),'Room')]"));
+//  		System.out.println("Rooms found: " + listOfRooms.size());
+//
+//  		for(int i = 0; i < listOfRooms.size(); i++) {
+//  			WebElement roomElement = listOfRooms.get(i);
+//  			String roomText = roomElement.getText();
+//  			String[] roomTextSplit1 = roomText.split(" ");
+//  			String finalRoomText = roomTextSplit1[1].trim();
+//
+//  			System.out.println("Configuring Room " + finalRoomText);
+//  			System.out.println("Total rooms: " + listOfRooms.size());
+//  			System.out.println("Room index: " + i);
+//  			System.out.println("Adult count: " + adultCount);
+//
+//  			// Add Adults
+//  			for(int j = 0; j < adultCount - 1; j++) {
+//  				try {
+//  					WebElement addAdult = driver.findElement(By.xpath("(//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[1]//*[contains(normalize-space(@class), 'tg-hl-adult-plus')]"));
+//  					((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", addAdult);
+//  					Thread.sleep(2000);
+//  					addAdult.click();
+//  					System.out.println("Adult added to Room " + finalRoomText);
+//  				} catch (Exception e) {
+//  					System.out.println("Failed to add adult in Room " + finalRoomText + " at iteration " + j + ": " + e.getMessage());
+//  				}
+//  			}
+//
+//  			// Add Children
+//  			for (int k = 1; k < childCount + 1; k++) {
+//  				try {
+//  					Thread.sleep(3000);
+//  					driver.findElement(By.xpath("(//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[2]//*[contains(normalize-space(@class), 'tg-hl-child-plus')]")).click();
+//  					System.out.println("Child " + k + " added to Room " + finalRoomText);
+//  				} catch (Exception e) {
+//  					System.out.println("Failed to add child in Room " + finalRoomText + " at iteration " + k + ": " + e.getMessage());
+//  				}
+//
+//  				try {
+//  					driver.findElement(By.xpath("((//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[2]/parent::div//div[@aria-haspopup='listbox'])[" + k + "]")).click();
+//  					Thread.sleep(2000);
+//  					List<WebElement> childAgeList = driver.findElements(By.xpath("//ul//li"));
+//  					childAgeList.get(childAge).click();
+//  					System.out.println("Child " + k + " age set in Room " + finalRoomText);
+//  				} catch (Exception e) {
+//  					System.out.println("Failed to set child age in Room " + finalRoomText + " for child " + k + ": " + e.getMessage());
+//  				}
+//  			}
+//
+//  			// Click Done Button after final room
+//  			if (i == listOfRooms.size() - 1) {
+//  				try {
+//  					WebElement doneButton = driver.findElement(By.xpath("//button[text()='Done']"));
+//  					((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", doneButton);
+//  					Thread.sleep(500);
+//  					doneButton.click();
+//  					System.out.println("Clicked 'Done' after completing Room " + finalRoomText);
+//  				} catch (Exception e) {
+//  					System.out.println("Failed to click 'Done' button: " + e.getMessage());
+//  				}
+//  			}
+//  		}
+//  	}
+  	
+  	public void addRoom(int roomcount, int adultCount, int childCount, int childAge) throws InterruptedException {
+  	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+  	    JavascriptExecutor js = (JavascriptExecutor) driver;
 
-  		for(int i = 0; i < roomcount - 1; i++) {
-  			try {
-  				System.out.println("Adding room: " + (i + 2));
-  				driver.findElement(By.xpath("//button[text()='Add Room']")).click();
-  			} catch (Exception e) {
-  				System.out.println("Failed to click 'Add Room' button at index " + i + ": " + e.getMessage());
-  			}
-  		}
+  	    Thread.sleep(3000); // initial wait - consider replacing with explicit wait later
 
-  		Thread.sleep(3000);
+  	    try {
+  	        System.out.println("Expanding room selection...");
 
-  		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-  		try {
-  			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h6[contains(text(),'Room')]")));
-  		} catch (Exception e) {
-  			System.out.println("Room elements not visible within timeout: " + e.getMessage());
-  		}
+  	        // Wait for any overlay/dialog to disappear before clicking
+  	        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.cssSelector(".MuiDialog-container")));
 
-  		List<WebElement> listOfRooms = driver.findElements(By.xpath("//h6[contains(text(),'Room')]"));
-  		System.out.println("Rooms found: " + listOfRooms.size());
+  	        WebElement expandIcon = driver.findElement(By.xpath("//*[contains(normalize-space(@class), 'tg-hl-guests-section')]"));
+  	        js.executeScript("arguments[0].scrollIntoView(true);", expandIcon);
+  	        Thread.sleep(500);
 
-  		for(int i = 0; i < listOfRooms.size(); i++) {
-  			WebElement roomElement = listOfRooms.get(i);
-  			String roomText = roomElement.getText();
-  			String[] roomTextSplit1 = roomText.split(" ");
-  			String finalRoomText = roomTextSplit1[1].trim();
+  	        try {
+  	            expandIcon.click();
+  	            System.out.println("'ExpandMoreIcon' clicked successfully.");
+  	        } catch (Exception e) {
+  	            System.out.println("Normal click failed, trying JS click: " + e.getMessage());
+  	            js.executeScript("arguments[0].click();", expandIcon);
+  	        }
+  	    } catch (Exception e) {
+  	        System.out.println("Failed to click expand icon: " + e.getMessage());
+  	    }
 
-  			System.out.println("Configuring Room " + finalRoomText);
-  			System.out.println("Total rooms: " + listOfRooms.size());
-  			System.out.println("Room index: " + i);
-  			System.out.println("Adult count: " + adultCount);
+  	    // Add rooms if more than 1
+  	    for (int i = 0; i < roomcount - 1; i++) {
+  	        try {
+  	            System.out.println("Adding room: " + (i + 2));
+  	            wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//button[text()='Add Room']"))).click();
+  	        } catch (Exception e) {
+  	            System.out.println("Failed to click 'Add Room' button at index " + i + ": " + e.getMessage());
+  	        }
+  	    }
 
-  			// Add Adults
-  			for(int j = 0; j < adultCount - 1; j++) {
-  				try {
-  					WebElement addAdult = driver.findElement(By.xpath("(//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[1]//*[contains(normalize-space(@class), 'tg-hl-adult-plus')]"));
-  					((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", addAdult);
-  					Thread.sleep(2000);
-  					addAdult.click();
-  					System.out.println("Adult added to Room " + finalRoomText);
-  				} catch (Exception e) {
-  					System.out.println("Failed to add adult in Room " + finalRoomText + " at iteration " + j + ": " + e.getMessage());
-  				}
-  			}
+  	    Thread.sleep(3000);
 
-  			// Add Children
-  			for (int k = 1; k < childCount + 1; k++) {
-  				try {
-  					Thread.sleep(3000);
-  					driver.findElement(By.xpath("(//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[2]//*[contains(normalize-space(@class), 'tg-hl-child-plus')]")).click();
-  					System.out.println("Child " + k + " added to Room " + finalRoomText);
-  				} catch (Exception e) {
-  					System.out.println("Failed to add child in Room " + finalRoomText + " at iteration " + k + ": " + e.getMessage());
-  				}
+  	    try {
+  	        wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h6[contains(text(),'Room')]")));
+  	    } catch (Exception e) {
+  	        System.out.println("Room elements not visible within timeout: " + e.getMessage());
+  	    }
 
-  				try {
-  					driver.findElement(By.xpath("((//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[2]/parent::div//div[@aria-haspopup='listbox'])[" + k + "]")).click();
-  					Thread.sleep(2000);
-  					List<WebElement> childAgeList = driver.findElements(By.xpath("//ul//li"));
-  					childAgeList.get(childAge).click();
-  					System.out.println("Child " + k + " age set in Room " + finalRoomText);
-  				} catch (Exception e) {
-  					System.out.println("Failed to set child age in Room " + finalRoomText + " for child " + k + ": " + e.getMessage());
-  				}
-  			}
+  	    List<WebElement> listOfRooms = driver.findElements(By.xpath("//h6[contains(text(),'Room')]"));
+  	    System.out.println("Rooms found: " + listOfRooms.size());
 
-  			// Click Done Button after final room
-  			if (i == listOfRooms.size() - 1) {
-  				try {
-  					WebElement doneButton = driver.findElement(By.xpath("//button[text()='Done']"));
-  					((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", doneButton);
-  					Thread.sleep(500);
-  					doneButton.click();
-  					System.out.println("Clicked 'Done' after completing Room " + finalRoomText);
-  				} catch (Exception e) {
-  					System.out.println("Failed to click 'Done' button: " + e.getMessage());
-  				}
-  			}
-  		}
+  	    for (int i = 0; i < listOfRooms.size(); i++) {
+  	        WebElement roomElement = listOfRooms.get(i);
+  	        String roomText = roomElement.getText();
+  	        String[] roomTextSplit1 = roomText.split(" ");
+  	        String finalRoomText = roomTextSplit1[1].trim();
+
+  	        System.out.println("Configuring Room " + finalRoomText);
+  	        System.out.println("Total rooms: " + listOfRooms.size());
+  	        System.out.println("Room index: " + i);
+  	        System.out.println("Adult count: " + adultCount);
+
+  	        // Add Adults
+  	        for (int j = 0; j < adultCount - 1; j++) {
+  	            try {
+  	                WebElement addAdult = driver.findElement(By.xpath("(//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[1]//*[contains(normalize-space(@class), 'tg-hl-adult-plus')]"));
+  	                js.executeScript("arguments[0].scrollIntoView(true);", addAdult);
+  	                Thread.sleep(2000);
+  	                addAdult.click();
+  	                System.out.println("Adult added to Room " + finalRoomText);
+  	            } catch (Exception e) {
+  	                System.out.println("Failed to add adult in Room " + finalRoomText + " at iteration " + j + ": " + e.getMessage());
+  	            }
+  	        }
+
+  	        // Add Children
+  	        for (int k = 1; k < childCount + 1; k++) {
+  	            try {
+  	                Thread.sleep(3000);
+  	                driver.findElement(By.xpath("(//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[2]//*[contains(normalize-space(@class), 'tg-hl-child-plus')]")).click();
+  	                System.out.println("Child " + k + " added to Room " + finalRoomText);
+  	            } catch (Exception e) {
+  	                System.out.println("Failed to add child in Room " + finalRoomText + " at iteration " + k + ": " + e.getMessage());
+  	            }
+
+  	            try {
+  	                driver.findElement(By.xpath("((//h6[text()='" + finalRoomText + "']/parent::div/parent::div//p/parent::div)[2]/parent::div//div[@aria-haspopup='listbox'])[" + k + "]")).click();
+  	                Thread.sleep(2000);
+  	                List<WebElement> childAgeList = driver.findElements(By.xpath("//ul//li"));
+  	                childAgeList.get(childAge).click();
+  	                System.out.println("Child " + k + " age set in Room " + finalRoomText);
+  	            } catch (Exception e) {
+  	                System.out.println("Failed to set child age in Room " + finalRoomText + " for child " + k + ": " + e.getMessage());
+  	            }
+  	        }
+
+  	        // Click Done Button after final room
+  	        if (i == listOfRooms.size() - 1) {
+  	            try {
+  	                WebElement doneButton = driver.findElement(By.xpath("//button[text()='Done']"));
+  	                js.executeScript("arguments[0].scrollIntoView(true);", doneButton);
+  	                Thread.sleep(500);
+  	                doneButton.click();
+  	                System.out.println("Clicked 'Done' after completing Room " + finalRoomText);
+  	            } catch (Exception e) {
+  	                System.out.println("Failed to click 'Done' button: " + e.getMessage());
+  	            }
+  	        }
+  	    }
   	}
+
  // Method to click on search button
  	public void clickOnSearch() {
  		try {
@@ -347,7 +458,7 @@ public class loginPage1 extends BasePage {
  	}
  	//Method to get the hotels name text for validating result screen is displayed or not 
 
- 	public void validateResultScreen(Log log, ExtentTest test) {
+ 	public void validateResultScreen(ExtentTest test) {
  	    try {
  	        WebDriverWait wait = new WebDriverWait(driver, Duration.ofMinutes(2));
  	        WebElement hotelGrid = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//h6[@title]")));

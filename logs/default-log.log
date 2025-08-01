@@ -1,182 +1,182 @@
-2025-07-31 17:49:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 17:49:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 17:49:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 17:49:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 17:49:34 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 17:49:34 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 17:52:15 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 17:52:15 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 17:52:16 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 17:52:16 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 17:52:17 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 17:52:17 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 17:57:02 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 17:57:02 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 17:57:02 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 17:57:02 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 17:57:03 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 17:57:03 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 17:57:03 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 17:57:03 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 17:57:04 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 17:57:04 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 17:57:04 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 17:57:04 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:03:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:03:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:03:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 18:03:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 18:03:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - browser
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - browser
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:03:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - browser
-2025-07-31 18:03:46 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:03:46 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:03:46 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 18:03:46 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 18:03:46 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - browser
-2025-07-31 18:03:47 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:03:47 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:03:47 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 18:03:47 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 18:03:47 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - browser
-2025-07-31 18:03:48 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:03:48 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:03:48 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 18:03:48 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:03:48 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - browser
-2025-07-31 18:06:11 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:06:11 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:06:11 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 18:06:11 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 18:06:11 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local browser
-2025-07-31 18:06:12 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:06:12 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:06:12 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 18:06:12 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 18:06:12 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local browser
-2025-07-31 18:06:13 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:06:13 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:06:13 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 18:06:13 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:06:13 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local browser
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local browser
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - chrome browser
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - chrome browser arg
-2025-07-31 18:08:39 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local chrome browser driver
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local browser
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - chrome browser
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - chrome browser arg
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local chrome browser driver
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local browser
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - chrome browser
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - chrome browser arg
-2025-07-31 18:08:40 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local chrome browser driver
-2025-07-31 18:10:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:10:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:10:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 18:10:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 18:10:33 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local browser
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - chrome browser
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - chrome browser arg
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local chrome browser driver
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local browser
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - chrome browser
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - chrome browser arg
-2025-07-31 18:10:34 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local chrome browser driver
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local browser
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - chrome browser
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - chrome browser arg
-2025-07-31 18:10:35 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local chrome browser driver
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - env
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - remote
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local browser
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - chrome browser
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - chrome browser arg
-2025-07-31 18:13:06 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - local chrome browser driver
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - env
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - remote
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local browser
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - chrome browser
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - chrome browser arg
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - local chrome browser driver
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - env
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - remote
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local browser
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - chrome browser
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - chrome browser arg
-2025-07-31 18:13:07 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - local chrome browser driver
-2025-07-31 18:20:22 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows
-2025-07-31 18:20:22 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Browser: chrome
-2025-07-31 18:20:23 [main] ERROR com.iween.testCases.TC_01_AjayModi_Login - WebDriver initialization failed: Could not start a new session. Response code 500. Message: session not created
-from disconnected: unable to connect to renderer 
-Host info: host: 'DESKTOP-SEE9OFQ', ip: '192.168.83.57'
-Build info: version: '4.21.0', revision: '79ed462ef4'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--no-sandbox, --disable-dev-shm-usage, --disable-gpu, --disable-extensions, --remote-debugging-port=9222, --headless], excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: false}}]}]
-org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created
-from disconnected: unable to connect to renderer 
-Host info: host: 'DESKTOP-SEE9OFQ', ip: '192.168.83.57'
-Build info: version: '4.21.0', revision: '79ed462ef4'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--no-sandbox, --disable-dev-shm-usage, --disable-gpu, --disable-extensions, --remote-debugging-port=9222, --headless], excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: false}}]}]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:162) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:232) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:114) ~[selenium-chromium-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:83) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:72) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at com.iween.testBase.baseClass.setup(baseClass.java:922) ~[test-classes/:?]
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:10:18 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:10:19 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:10:20 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:10:20 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:10:20 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:10:21 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:10:21 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:10:21 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:10:25 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:10:29 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:10:30 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:10:38 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:10:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:10:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:10:58 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:10:59 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:11:29 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:11:29 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:11:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:11:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:11:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:11:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:11:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:11:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:11:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:11:39 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:11:40 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:11:48 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:11:53 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:11:53 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:12:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:12:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:13:20 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:13:21 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:13:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:13:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:13:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:13:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:13:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:13:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:13:26 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:13:30 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:13:32 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:13:40 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:13:44 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:13:44 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:14:00 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:14:01 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:14:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:23:16 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:23:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:23:18 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:23:18 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:23:18 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:23:18 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:23:19 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:23:19 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:23:26 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:23:30 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:23:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:23:39 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:23:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:23:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:24:00 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:24:01 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:24:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:24:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:24:24 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:24:24 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:24:24 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:24:25 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:24:25 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:24:25 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:26:08 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:26:08 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:26:10 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:26:10 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:26:10 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:26:10 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:26:10 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:26:10 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:26:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:26:18 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:26:20 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:26:28 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:26:32 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:26:33 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:26:49 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:26:50 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:27:11 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:32:14 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:32:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:32:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:32:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:32:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:32:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:32:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:32:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:32:20 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:32:24 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:32:25 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:32:33 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:32:37 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:32:38 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:33:04 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:33:05 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:33:36 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:36:32 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:36:32 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:36:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:36:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:36:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:36:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:36:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:36:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:36:39 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:36:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:36:45 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:36:53 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:36:58 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:36:58 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:37:35 [main] DEBUG com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Debug log
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at com.iween.pageObjects.loginPage1.addRoom(loginPage1.java:285) ~[test-classes/:?]
+	at com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays.myTest(TCH_01_VerifySearchFunctionalityForHotalForTwoDays.java:87) ~[test-classes/:?]
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
@@ -199,44 +199,51 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
-2025-07-31 18:20:24 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows
-2025-07-31 18:20:24 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Browser: chrome
-2025-07-31 18:20:24 [main] ERROR com.iween.testCases.TC_02_AjayModi_Login1 - WebDriver initialization failed: Could not start a new session. Response code 500. Message: session not created
-from disconnected: unable to connect to renderer 
-Host info: host: 'DESKTOP-SEE9OFQ', ip: '192.168.83.57'
+2025-08-01 11:37:35 [main] ERROR com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Test failed due to exception: Index 1 out of bounds for length 1
+2025-08-01 11:37:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:39:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:39:40 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:39:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:39:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:39:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:39:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:39:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:39:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:39:54 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:39:58 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:39:59 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:40:08 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:40:12 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:40:12 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:41:02 [main] DEBUG com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Debug log
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
 Build info: version: '4.21.0', revision: '79ed462ef4'
 System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--no-sandbox, --disable-dev-shm-usage, --disable-gpu, --disable-extensions, --remote-debugging-port=9222, --headless], excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: false}}]}]
-org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created
-from disconnected: unable to connect to renderer 
-Host info: host: 'DESKTOP-SEE9OFQ', ip: '192.168.83.57'
-Build info: version: '4.21.0', revision: '79ed462ef4'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--no-sandbox, --disable-dev-shm-usage, --disable-gpu, --disable-extensions, --remote-debugging-port=9222, --headless], excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: false}}]}]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:162) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:232) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:114) ~[selenium-chromium-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:83) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:72) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at com.iween.testBase.baseClass.setup(baseClass.java:922) ~[test-classes/:?]
+Command: [ca51af7e8d09e8f7ea038e33628726f7, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.183, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54029}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54029/devtoo..., se:cdpVersion: 138.0.7204.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ca51af7e8d09e8f7ea038e33628726f7
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.21.0.jar:?]
+	at com.iween.pageObjects.loginPage1.addRoom(loginPage1.java:386) ~[test-classes/:?]
+	at com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays.myTest(TCH_01_VerifySearchFunctionalityForHotalForTwoDays.java:87) ~[test-classes/:?]
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
@@ -259,44 +266,177 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
-2025-07-31 18:20:24 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows
-2025-07-31 18:20:24 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Browser: chrome
-2025-07-31 18:20:25 [main] ERROR com.iween.testCases.TC_03_AjayModi_Login3 - WebDriver initialization failed: Could not start a new session. Response code 500. Message: session not created
-from disconnected: unable to connect to renderer 
-Host info: host: 'DESKTOP-SEE9OFQ', ip: '192.168.83.57'
-Build info: version: '4.21.0', revision: '79ed462ef4'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--no-sandbox, --disable-dev-shm-usage, --disable-gpu, --disable-extensions, --remote-debugging-port=9222, --headless], excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: false}}]}]
-org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created
-from disconnected: unable to connect to renderer 
-Host info: host: 'DESKTOP-SEE9OFQ', ip: '192.168.83.57'
-Build info: version: '4.21.0', revision: '79ed462ef4'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--no-sandbox, --disable-dev-shm-usage, --disable-gpu, --disable-extensions, --remote-debugging-port=9222, --headless], excludeSwitches: [enable-automation], extensions: [], useAutomationExtension: false}}]}]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:114) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:162) ~[selenium-remote-driver-4.21.0.jar:?]
+Caused by: java.io.UncheckedIOException: java.net.ConnectException
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:439) ~[selenium-http-4.21.0.jar:?]
+	at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42) ~[selenium-http-4.21.0.jar:?]
+	at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55) ~[selenium-http-4.21.0.jar:?]
+	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:355) ~[selenium-http-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187) ~[selenium-remote-driver-4.21.0.jar:?]
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:232) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161) ~[selenium-remote-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:114) ~[selenium-chromium-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:88) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:83) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:72) ~[selenium-chrome-driver-4.21.0.jar:?]
-	at com.iween.testBase.baseClass.setup(baseClass.java:922) ~[test-classes/:?]
+	... 32 more
+Caused by: java.net.ConnectException
+	at java.net.http/jdk.internal.net.http.common.Utils.toConnectException(Utils.java:1041) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:227) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpen(SocketChannelImpl.java:202) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.beginConnect(SocketChannelImpl.java:786) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.connect(SocketChannelImpl.java:874) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$1(PlainHttpConnection.java:210) ~[java.net.http:?]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571) ~[?:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.checkRetryConnect(PlainHttpConnection.java:280) ~[java.net.http:?]
+	at java.net.http/jdk.internal.net.http.PlainHttpConnection.lambda$connectAsync$2(PlainHttpConnection.java:238) ~[java.net.http:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+2025-08-01 11:41:02 [main] ERROR com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ca51af7e8d09e8f7ea038e33628726f7, findElements [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.183, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54029}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54029/devtoo..., se:cdpVersion: 138.0.7204.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ca51af7e8d09e8f7ea038e33628726f7
+2025-08-01 11:41:02 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:42:49 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:42:49 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:42:51 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:42:51 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:42:51 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:42:52 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:42:52 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:42:52 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:42:55 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:42:59 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:43:01 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:43:09 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:43:13 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:43:13 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:46:44 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:46:45 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:46:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:46:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:46:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:46:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:46:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:46:47 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:46:51 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:46:54 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:46:56 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:47:04 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:47:08 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:47:08 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:48:40 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:48:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:48:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:48:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:48:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:48:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:48:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:48:43 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:48:46 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:48:50 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:48:51 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:49:00 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:49:04 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:49:04 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:50:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:50:12 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:50:12 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:50:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:50:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:50:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:50:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:50:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:50:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:50:18 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:50:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:50:29 [main] DEBUG com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Debug log
+org.openqa.selenium.NoSuchSessionException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=138.0.7204.183)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3537be265d513277515c7244b0cf597e, findElements {using=xpath, value=//div[@role='option']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.183, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54625}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54625/devtoo..., se:cdpVersion: 138.0.7204.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3537be265d513277515c7244b0cf597e
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.21.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.21.0.jar:?]
+	at com.iween.pageObjects.loginPage1.lambda$0(loginPage1.java:82) ~[test-classes/:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203) ~[selenium-support-4.21.0.jar:?]
+	at com.iween.pageObjects.loginPage1.selectCityOrHotelName(loginPage1.java:82) ~[test-classes/:?]
+	at com.iween.pageObjects.loginPage1.enterCityOrHotelName(loginPage1.java:76) ~[test-classes/:?]
+	at com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays.myTest(TCH_01_VerifySearchFunctionalityForHotalForTwoDays.java:74) ~[test-classes/:?]
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
 	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
@@ -319,17 +459,123 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
-2025-07-31 18:29:38 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Running on environment: local
-2025-07-31 18:29:38 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Operating System: Windows, Browser: chrome
-2025-07-31 18:29:40 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - URL launched: https://air.ajaymodi.pro/login
-2025-07-31 18:29:40 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - user name and password entering
-2025-07-31 18:29:44 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - user name password entering
-2025-07-31 18:29:44 [main] INFO  com.iween.testCases.TC_01_AjayModi_Login - Closing browser.
-2025-07-31 18:29:44 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Running on environment: local
-2025-07-31 18:29:44 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Operating System: Windows, Browser: chrome
-2025-07-31 18:29:45 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - URL launched: https://air.ajaymodi.pro/login
-2025-07-31 18:29:49 [main] INFO  com.iween.testCases.TC_02_AjayModi_Login1 - Closing browser.
-2025-07-31 18:29:49 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Running on environment: local
-2025-07-31 18:29:49 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Operating System: Windows, Browser: chrome
-2025-07-31 18:29:50 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - URL launched: https://air.ajaymodi.pro/login
-2025-07-31 18:29:54 [main] INFO  com.iween.testCases.TC_03_AjayModi_Login3 - Closing browser.
+2025-08-01 11:50:29 [main] ERROR com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Test failed due to exception: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=138.0.7204.183)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3537be265d513277515c7244b0cf597e, findElements {using=xpath, value=//div[@role='option']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.183, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54625}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54625/devtoo..., se:cdpVersion: 138.0.7204.183, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3537be265d513277515c7244b0cf597e
+2025-08-01 11:50:29 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:50:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:50:39 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:50:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:50:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:50:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:50:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:50:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:50:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:50:45 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:50:49 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:50:50 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:50:59 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:51:03 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:51:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:51:42 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:52:13 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:53:20 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:53:21 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:53:21 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:53:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:53:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:53:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:53:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:53:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:53:23 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:53:27 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:53:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:53:32 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:53:40 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:53:44 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:54:16 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:54:17 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:54:17 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Finished TestCase1: testLogin ********
+2025-08-01 11:54:17 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Verifying login success...
+2025-08-01 11:54:17 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:55:11 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:55:11 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: machine | OS: Windows | Browser: chrome
+2025-08-01 11:55:13 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:55:13 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:55:13 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:55:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:55:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:55:14 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:55:17 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:55:21 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:55:22 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:55:31 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:55:35 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:56:06 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:56:07 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:56:07 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Finished TestCase1: testLogin ********
+2025-08-01 11:56:07 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Verifying login success...
+2025-08-01 11:56:07 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet5.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet7.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet16.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet17.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet18.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet19.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet20.xml.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2025-08-01 11:56:39 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-08-01 11:56:39 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Execution environment: local | OS: Windows | Browser: chrome
+2025-08-01 11:56:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Launched URL: https://v3.tripgain.com/login
+2025-08-01 11:56:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Starting TestCase1: testLogin ********
+2025-08-01 11:56:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Username
+2025-08-01 11:56:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Entering Password
+2025-08-01 11:56:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Clicking Login Button
+2025-08-01 11:56:41 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked login button
+2025-08-01 11:56:45 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clicked on hotel dropdown
+2025-08-01 11:56:48 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - validateHomePageIsDisplayed
+2025-08-01 11:56:50 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - enterCityOrHotelName
+2025-08-01 11:56:58 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectDate
+2025-08-01 11:57:02 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - selectReturnDate
+2025-08-01 11:57:33 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - addRoom
+2025-08-01 11:57:34 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - clickOnSearch
+2025-08-01 11:57:34 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - ******** Finished TestCase1: testLogin ********
+2025-08-01 11:57:34 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Verifying login success...
+2025-08-01 11:57:34 [main] INFO  com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays - Closing browser.

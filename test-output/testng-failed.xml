@@ -8,27 +8,13 @@
   </listeners>
   <test thread-count="5" name="Hotel Search Tests(failed)">
     <classes>
-      <class name="com.iween.testCases.TC_03_AjayModi_Login3">
+      <class name="com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays">
         <methods>
-          <include name="setup"/>
-          <include name="bookingProcess"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.iween.testCases.TC_03_AjayModi_Login3 -->
-      <class name="com.iween.testCases.TC_02_AjayModi_Login1">
-        <methods>
-          <include name="bookingProcess"/>
+          <include name="myTest" invocation-numbers="0"/>
           <include name="setup"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.iween.testCases.TC_02_AjayModi_Login1 -->
-      <class name="com.iween.testCases.TC_01_AjayModi_Login">
-        <methods>
-          <include name="bookingProcess"/>
-          <include name="setup"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.iween.testCases.TC_01_AjayModi_Login -->
+      </class> <!-- com.iween.testCases.TCH_01_VerifySearchFunctionalityForHotalForTwoDays -->
     </classes>
   </test> <!-- Hotel Search Tests(failed) -->
 </suite> <!-- Failed suite [TripGain Test Suite] -->
